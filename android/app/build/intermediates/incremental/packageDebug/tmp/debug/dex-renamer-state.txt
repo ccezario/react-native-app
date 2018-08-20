@@ -1,0 +1,4 @@
+#Mon Aug 13 13:38:38 EDT 2018
+base.0=/Users/ccezario/workspace/react/my-first-app/android/app/build/intermediates/transforms/dexMerger/debug/0
+renamed.0=classes.dex
+path.0=classes.dex
